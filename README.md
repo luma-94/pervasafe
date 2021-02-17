@@ -1,2 +1,0 @@
-# pervasafe
-simple readme
